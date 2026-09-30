@@ -2,15 +2,15 @@
 
 Installateurs de l'application **Hope** (gestion de cabinet médical).
 Ce dépôt ne contient pas de code : uniquement les versions publiées automatiquement par
-[`hope-app`](https://github.com/BramaSquare360/hope-app) (dépôt privé).
+[`hope-app`](https://github.com/bramasquare-mobile/hope-app) (dépôt privé).
 
 ## Version stable (production)
 
 | Plateforme | Lien permanent |
 |---|---|
-| Windows | https://github.com/BramaSquare360/hope-releases/releases/latest/download/Hope-Setup-Latest.exe |
-| macOS | https://github.com/BramaSquare360/hope-releases/releases/latest/download/Hope-Latest.dmg |
-| Tablette Android | https://github.com/BramaSquare360/hope-releases/releases/latest/download/Hope-Android-Latest.apk |
+| Windows | https://github.com/bramasquare-mobile/hope-releases/releases/latest/download/Hope-Setup-Latest.exe |
+| macOS | https://github.com/bramasquare-mobile/hope-releases/releases/latest/download/Hope-Latest.dmg |
+| Tablette Android | https://github.com/bramasquare-mobile/hope-releases/releases/latest/download/Hope-Android-Latest.apk |
 
 ## Version de test (preprod)
 
@@ -18,11 +18,11 @@ Ce dépôt ne contient pas de code : uniquement les versions publiées automatiq
 
 | Plateforme | Lien permanent |
 |---|---|
-| Windows | https://github.com/BramaSquare360/hope-releases/releases/download/preprod-latest/Hope-Setup-Latest.exe |
-| macOS | https://github.com/BramaSquare360/hope-releases/releases/download/preprod-latest/Hope-Latest.dmg |
-| Tablette Android | https://github.com/BramaSquare360/hope-releases/releases/download/preprod-latest/Hope-Android-Latest.apk |
+| Windows | https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Setup-Latest.exe |
+| macOS | https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Latest.dmg |
+| Tablette Android | https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Android-Latest.apk |
 
-Chaque version est aussi disponible individuellement dans l'onglet [Releases](https://github.com/BramaSquare360/hope-releases/releases) :
+Chaque version est aussi disponible individuellement dans l'onglet [Releases](https://github.com/bramasquare-mobile/hope-releases/releases) :
 `v<version>` pour la production, `preprod-<commit>` pour les tests.
 
 ## Installation
