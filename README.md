@@ -4,6 +4,21 @@ Installateurs de l'application **Hope** (gestion de cabinet médical).
 Ce dépôt ne contient pas de code : uniquement les versions publiées automatiquement par
 [`hope-app`](https://github.com/bramasquare-mobile/hope-app) (dépôt privé).
 
+## Dernières versions
+
+Mise à jour automatique à chaque publication. « — » : pas encore publiée.
+
+<!-- builds:start -->
+| Canal | Plateforme | Fichier | Publiée le (heure de Tunis) | Branche | Commit | Taille | Build |
+|---|---|---|---|---|---|---|---|
+| Test | Windows | [Hope-Setup-Latest.exe](https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Setup-Latest.exe) | 02/10/2026 15:02 | develop | [c99a0af](https://github.com/bramasquare-mobile/hope-app/commit/c99a0af4c0dfc7b9c46806b1acb5afac48f247a4) | 37,4 Mo | [exécution](https://github.com/bramasquare-mobile/hope-app/actions/runs/37015290929) |
+| Test | Tablette Android | [Hope-Android-Latest.apk](https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Android-Latest.apk) | 02/10/2026 13:43 | develop | [c99a0af](https://github.com/bramasquare-mobile/hope-app/commit/c99a0af4c0dfc7b9c46806b1acb5afac48f247a4) | 68,5 Mo | [exécution](https://github.com/bramasquare-mobile/hope-app/actions/runs/37007791861) |
+| Test | macOS | — | — | — | — | — | — |
+| Stable | Windows | — | — | — | — | — | — |
+| Stable | Tablette Android | — | — | — | — | — | — |
+| Stable | macOS | — | — | — | — | — | — |
+<!-- builds:end -->
+
 ## Version stable (production)
 
 | Plateforme | Lien permanent |
