@@ -11,7 +11,7 @@ Mise à jour automatique à chaque publication. « — » : pas encore publiée.
 <!-- builds:start -->
 | Canal | Plateforme | Fichier | Publiée le (heure de Tunis) | Branche | Commit | Taille | Build |
 |---|---|---|---|---|---|---|---|
-| Test | Windows | [Hope-Setup-Latest.exe](https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Setup-Latest.exe) | 02/10/2026 17:55 | develop | [b73df06](https://github.com/bramasquare-mobile/hope-app/commit/b73df06ea1db577ae908d738e71a894b451b97be) | 37,4 Mo | [exécution](https://github.com/bramasquare-mobile/hope-app/actions/runs/37035359944) |
+| Test | Windows | [Hope-Setup-Latest.exe](https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Setup-Latest.exe) | 02/10/2026 20:32 | develop | [ffe6379](https://github.com/bramasquare-mobile/hope-app/commit/ffe63792124131579d1c04fb8f05d3d5719c4240) | 37,5 Mo | [exécution](https://github.com/bramasquare-mobile/hope-app/actions/runs/37053088791) |
 | Test | Tablette Android | [Hope-Android-Latest.apk](https://github.com/bramasquare-mobile/hope-releases/releases/download/preprod-latest/Hope-Android-Latest.apk) | 02/10/2026 20:23 | develop | [ffe6379](https://github.com/bramasquare-mobile/hope-app/commit/ffe63792124131579d1c04fb8f05d3d5719c4240) | 70,2 Mo | [exécution](https://github.com/bramasquare-mobile/hope-app/actions/runs/37053088908) |
 | Test | macOS | — | — | — | — | — | — |
 | Stable | Windows | — | — | — | — | — | — |
